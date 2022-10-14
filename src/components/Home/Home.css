@@ -1,0 +1,38 @@
+.home-container{
+    display: flex;
+}
+.home-container img{
+    height: 100%;
+}
+.home-text{
+    width: 50%;
+    margin-top: 80px;
+    display: flex;
+    position: relative;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 2rem;
+}
+.home-text h1{
+    font-size: 45px;
+    font-weight: 700;
+}
+.home-text p{
+    font-size: 20px;
+    margin-top: 20px;
+}
+#color{
+    color: goldenrod;
+}
+.home-img{
+    width: 50%;
+   margin-top: 60px;
+}
